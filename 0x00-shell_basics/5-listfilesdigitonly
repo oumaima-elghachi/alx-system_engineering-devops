@@ -1,2 +1,2 @@
-ls -al
-id
+#!/bin/bash
+ls -na
