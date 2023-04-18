@@ -1,2 +1,2 @@
 #!/bin/bash
-sed 's/h//g'
+tr -d Ã'cC'
